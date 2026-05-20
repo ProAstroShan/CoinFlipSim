@@ -1,5 +1,5 @@
-#Aknowledgement
-Credits: Game idea from Unfair Flips
+# Aknowledgement
+# Credits: Game idea from Unfair Flips
 #imports
 import time
 import random
